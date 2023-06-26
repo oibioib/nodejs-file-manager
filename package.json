@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "Node.js File Manager [RS School NodeJS-2023-Q2 course]",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oibioib/nodejs-file-manager.git"
+  },
+  "author": "Pavel Bodal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oibioib/nodejs-file-manager/issues"
+  },
+  "homepage": "https://github.com/oibioib/nodejs-file-manager#readme"
+}
